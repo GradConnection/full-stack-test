@@ -27,7 +27,7 @@
     "@babel/polyfill": "^7.0.0",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
-    "react-select": "^2.1.0",
+    "react-select": "^2.4.4",
     "uuid": "^3.3.2"
   }
 }
